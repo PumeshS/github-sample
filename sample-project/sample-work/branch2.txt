@@ -1,1 +1,2 @@
 this is branch2 text
+adding some text to branch2 text
