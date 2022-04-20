@@ -1,3 +1,1 @@
-this is branch text
-this is branch1 text
-this is new line
+this one is branch1 text

@@ -1,2 +1,1 @@
-this is branch2 text
-this is branch2 text
+this one is branch2 text
